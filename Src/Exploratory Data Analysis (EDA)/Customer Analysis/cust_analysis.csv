@@ -1,0 +1,19 @@
+﻿Customer Segment Analysis:,,,,,
+Segment,Unique Customers,Sales,Total Orders,Avg Orders per Customer,Avg Sales per Customer
+,,,,,
+Consumer,409,"11,48,060.53",2537,6.2,"2,806.99"
+Corporate,236,"6,88,494.07",1491,6.32,"2,917.35"
+Home Office,148,"4,24,982.18",894,6.04,"2,871.50"
+,,,,,
+Top 10 Customers by Sales:,,,,,
+Customer ID,Customer Name,Sales,,,
+SM-20320,Sean Miller,"25,043.05",,,
+TC-20980,Tamara Chand,"19,052.22",,,
+RB-19360,Raymond Buch,"15,117.34",,,
+TA-21385,Tom Ashbrook,"14,595.62",,,
+AB-10105,Adrian Barton,"14,473.57",,,
+KL-16645,Ken Lonsdale,"14,175.23",,,
+SC-20095,Sanjit Chand,"14,142.33",,,
+HL-15040,Hunter Lopez,"12,873.30",,,
+SE-20110,Sanjit Engle,"12,209.44",,,
+CC-12370,Christopher Conant,"12,129.07",,,

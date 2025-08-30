@@ -1,0 +1,24 @@
+﻿💰 Customer Lifetime Value (CLV) Analysis,,,,,,
+============================================================,,,,,,
+📊 Analyzed 793 customers,,,,,,
+,,,,,,
+🏆 Top 10 Customers by CLV:,,,,,,
+,Customer_Name,Total_Revenue,Total_Orders,Avg_Order_Value,CLV,CLV_Segment
+345,Jenna Caffey,"$1,058.11",1,"$1,058.11","$386,209.42",VIP
+701,Susan MacKendrick,"$1,043.04",1,"$1,043.04","$380,709.96",VIP
+742,Theresa Coyne,"$1,038.26",1,"$1,038.26","$378,964.90",VIP
+403,Jocasta Rupert,$863.88,1,$863.88,"$315,316.20",VIP
+593,Patricia Hirasaki,$729.65,1,$729.65,"$266,321.52",VIP
+309,Georgia Rosenberg,"$1,284.38",2,$642.19,"$234,399.35",VIP
+42,Anthony O'Donnell,$161.28,1,$161.28,"$58,867.20",VIP
+650,Roland Murray,$98.35,1,$98.35,"$35,897.75",VIP
+140,Christina DeMoss,"$1,205.58",2,$602.79,"$33,849.09",VIP
+49,Anemone Ratner,$88.15,1,$88.15,"$32,174.75",VIP
+,,,,,,
+📈 CLV Segment Summary:,,,,,,
+CLV_Segment,Customer_Count,Total_Revenue,CLV,,,
+Low,199,"$150,313.24",$257.62,,,
+Medium,198,"$371,417.69",$648.20,,,
+High,198,"$615,574.62","$1,120.55",,,
+VIP,198,"$1,124,231.23","$13,225.94",,,
+,,,,,,

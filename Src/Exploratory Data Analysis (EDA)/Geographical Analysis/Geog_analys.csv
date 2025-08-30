@@ -1,0 +1,22 @@
+﻿Sales by Region:,
+,
+Region,Sales
+West,"7,10,219.68"
+East,"6,69,518.73"
+Central,"4,92,646.91"
+South,"3,89,151.46"
+,
+dtype: float64,
+Top 10 States by Sales:,
+,Sales
+State,
+California,"4,46,306.46"
+New York,"3,06,361.15"
+Texas,"1,68,572.53"
+Washington,"1,35,206.85"
+Pennsylvania,"1,16,276.65"
+Florida,"88,436.53"
+Illinois,"79,236.52"
+Michigan,"76,136.07"
+Ohio,"75,130.35"
+Virginia,"70,636.72"

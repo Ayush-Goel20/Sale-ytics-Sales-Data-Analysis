@@ -1,0 +1,5 @@
+          Metric	        Value	       Formatted Value
+0	Total Sales	      2,261,536.78     $2,261,536.78
+1	Total Orders	      4,922.00	       4,922
+2	Average Order Value	459.48	       $459.48
+3	Total Customers  	793.00	       793
