@@ -63,6 +63,11 @@ The project uses the **Superstore Sales Dataset** containing:
 - **Scikit-learn**: Machine learning utilities
 - **TensorFlow**: Deep learning capabilities
 
+### 💻 Dashboard View 
+![Dashboard Screenshot](./streamlit-deployment/Dashboard.png)
+
+
+
 ## 📁 Project Structure
 
 ```bash
